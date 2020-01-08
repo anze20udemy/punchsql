@@ -1,4 +1,4 @@
-# punchsql
+# Punch In
 Registrator delovnega časa
 
 Možnost uvoza csv iz programa MyWorkClock
